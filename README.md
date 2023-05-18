@@ -1,4 +1,4 @@
-# Cognitive Load Test Battery
+# Cognitive Load Sessions
 
 This directory implements a 2 cognitive load sessions.
 
