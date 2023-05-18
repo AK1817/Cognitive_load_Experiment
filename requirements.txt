@@ -1,0 +1,4 @@
+psychopy
+pyo
+pynput
+pywinauto
