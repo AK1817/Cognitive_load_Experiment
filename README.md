@@ -1,18 +1,29 @@
 # Cognitive Load Test Battery
 
-This directory implements a test battery of different experiments to trigger cognitive load.
+This directory implements a 2 cognitive load sessions.
 
-Following tests are included:
-- n-back Test
-- Stroop Test
-- Stroop Test with Time Pressure
-- Stroop Test with an Additional Task
-- Reading Span Test
+    The second session also called 'Lab2'. It is implemented in three version with extension name in the files
+    Following Task is included:
+    - Bejeweled 2 Game Task
 
-Following questionaires are included:
-- NASA TXL Questionaire
-- POMS Emotions Questionaire
-- Voice recording for Emotions
+    Following questionaires are included:
+    - NASA TXL Questionaire
+    - POMS Emotions Questionaire
+    - Voice recording for Emotions
+
+
+    The second session also called 'Lab2'. It is implemented in three version with extension name in the files
+    Following tests are included:
+    - n-back Test
+    - Stroop Test
+    - Stroop Test with Time Pressure
+    - Stroop Test with an Additional Task
+    - Reading Span Test
+
+    Following questionaires are included:
+    - NASA TXL Questionaire
+    - POMS Emotions Questionaire
+    - Voice recording for Emotions
 
 ## Setup
 
