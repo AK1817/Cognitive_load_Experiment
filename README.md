@@ -36,7 +36,7 @@ Install the requirements
 Install PsychoPy version 2021.1.4 from PsychoPy's GitHub Releases: https://github.com/psychopy/psychopy/releases 
 - for Windows: https://github.com/psychopy/psychopy/releases/download/2021.1.4/StandalonePsychoPy3-2021.1.4-win64.exe 
 
-(please choose this version, there are copatibility problems with newer versions)
+(please choose this version, there are compatibility problems with newer versions)
 
 Open the PsychoPy Builder, click the "open file"-button to choose and open one of the .psyexp files. Start the experiment by clicking the green arrow ("run experiment").
 
