@@ -1,0 +1,47 @@
+Traceback (most recent call last):
+  File "brainworkshop.pyw", line 4576, in <module>
+  File "brainworkshop.pyw", line 2264, in __init__
+  File "brainworkshop.pyw", line 2270, in crosshair_update
+KeyError: 1
+Traceback (most recent call last):
+  File "brainworkshop.pyw", line 4576, in <module>
+  File "brainworkshop.pyw", line 2264, in __init__
+  File "brainworkshop.pyw", line 2270, in crosshair_update
+KeyError: 1
+Traceback (most recent call last):
+  File "brainworkshop.pyw", line 4576, in <module>
+  File "brainworkshop.pyw", line 2264, in __init__
+  File "brainworkshop.pyw", line 2270, in crosshair_update
+KeyError: 1
+Traceback (most recent call last):
+  File "_ctypes/callbacks.c", line 313, in 'calling callback function'
+  File "pyglet\app\win32.pyc", line 84, in _timer_func
+  File "pyglet\app\__init__.pyc", line 187, in idle
+  File "pyglet\clock.pyc", line 700, in tick
+  File "pyglet\clock.pyc", line 303, in tick
+  File "pyglet\media\__init__.pyc", line 939, in dispatch_events
+  File "pyglet\media\__init__.pyc", line 911, in _on_eos
+  File "pyglet\media\__init__.pyc", line 1246, in stop
+ValueError: list.remove(x): x not in list
+Traceback (most recent call last):
+  File "brainworkshop.pyw", line 4649, in <module>
+  File "pyglet\app\__init__.pyc", line 264, in run
+  File "pyglet\app\win32.pyc", line 63, in run
+  File "pyglet\app\win32.pyc", line 84, in _timer_func
+  File "pyglet\app\__init__.pyc", line 187, in idle
+  File "pyglet\clock.pyc", line 700, in tick
+  File "pyglet\clock.pyc", line 303, in tick
+  File "pyglet\media\__init__.pyc", line 939, in dispatch_events
+  File "pyglet\media\__init__.pyc", line 911, in _on_eos
+  File "pyglet\media\__init__.pyc", line 1246, in stop
+ValueError: list.remove(x): x not in list
+Traceback (most recent call last):
+  File "_ctypes/callbacks.c", line 313, in 'calling callback function'
+  File "pyglet\app\win32.pyc", line 84, in _timer_func
+  File "pyglet\app\__init__.pyc", line 187, in idle
+  File "pyglet\clock.pyc", line 700, in tick
+  File "pyglet\clock.pyc", line 303, in tick
+  File "pyglet\media\__init__.pyc", line 939, in dispatch_events
+  File "pyglet\media\__init__.pyc", line 911, in _on_eos
+  File "pyglet\media\__init__.pyc", line 1246, in stop
+ValueError: list.remove(x): x not in list
