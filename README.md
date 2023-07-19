@@ -43,4 +43,10 @@ Open the PsychoPy Builder, click the "open file"-button to choose and open one o
 Set the correct screen size in PsychoPy experiment setttings >> Screen >> Window Size. You can get your screen size from http://whatismyscreenresolution.net/ 
 
 
+# videos and music filees are missing,  as it exceeds the file size limit.
+video is missing in the folder 'res/video/'
+music is missing from the folder 'res/music'    
+please add your own  video and music and make the changes
+
+
 
