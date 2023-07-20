@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 This experiment was created using PsychoPy3 Experiment Builder (v2021.1.4),
-    on February 04, 2023, at 04:33
+    on July 20, 2023, at 14:21
 If you publish work using this script the most relevant publication is:
 
     Peirce J, Gray JR, Simpson S, MacAskill M, Höchenberger R, Sogo H, Kastman E, Lindeløv JK. (2019) 
@@ -160,7 +160,7 @@ filename = _thisDir + os.sep + u'data/%s_%s_%s' % (expInfo['participant'], expNa
 # An ExperimentHandler isn't essential but helps with data saving
 thisExp = data.ExperimentHandler(name=expName, version='',
     extraInfo=expInfo, runtimeInfo=None,
-    originPath='D:\\psychopy\\psychopy\\Lab1_-_online_version_lastrun.py',
+    originPath='C:\\Users\\abhis\\Cognitive_load_Experiment\\Lab1_-_online_version_lastrun.py',
     savePickle=True, saveWideText=True,
     dataFileName=filename)
 # save a log file for detail verbose info
@@ -7016,7 +7016,7 @@ while continueRoutine and routineTimer.getTime() > 0:
         text_7.setAutoDraw(True)
     if text_7.status == STARTED:
         # is it time to stop? (based on global clock, using actual start)
-        if tThisFlipGlobal > text_7.tStartRefresh + 180.0-frameTolerance:
+        if tThisFlipGlobal > text_7.tStartRefresh + 60.0-frameTolerance:
             # keep track of stop time/frame for later
             text_7.tStop = t  # not accounting for scr refresh
             text_7.frameNStop = frameN  # exact frame index

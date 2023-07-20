@@ -45,3 +45,12 @@ Traceback (most recent call last):
   File "pyglet\media\__init__.pyc", line 911, in _on_eos
   File "pyglet\media\__init__.pyc", line 1246, in stop
 ValueError: list.remove(x): x not in list
+Traceback (most recent call last):
+  File "brainworkshop.pyw", line 915, in <module>
+WindowsError: [Error 3] The system cannot find the path specified: 'C:\\Users\\abhis\\Cognitive_load_Experiment\\Brain Workshop\\res\\music/*.*'
+Traceback (most recent call last):
+  File "brainworkshop.pyw", line 915, in <module>
+WindowsError: [Error 3] The system cannot find the path specified: 'C:\\Users\\abhis\\Cognitive_load_Experiment\\Brain Workshop\\res\\music/*.*'
+Traceback (most recent call last):
+  File "brainworkshop.pyw", line 915, in <module>
+WindowsError: [Error 3] The system cannot find the path specified: 'C:\\Users\\abhis\\Cognitive_load_Experiment\\Brain Workshop\\res\\music/*.*'
