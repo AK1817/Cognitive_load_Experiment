@@ -12,7 +12,7 @@ This directory implements two cognitive load sessions.
 
     The following questionnaires are included:
     - NASA TXL Questionaire
-    - POMS Emotions Questionaire
+    - PANAS Emotions Questionaire
     - Voice recording for Emotions
 
 
@@ -21,15 +21,15 @@ This directory implements two cognitive load sessions.
           Before running Lab2 - brainworkshop.psyexp, please open and close your brain workshop software manually. 
           
     The following tests are included:
-    - n-back Test
     - Stroop Test
     - Stroop Test with Time Pressure
     - Stroop Test with an Additional Task
     - Reading Span Test
+     - n-back Test
 
     The following questionnaires are included:
     - NASA TXL Questionaire
-    - POMS Emotions Questionaire
+    - PANAS Emotions Questionaire
     - Voice recording for Emotions
 
 ## Setup
