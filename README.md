@@ -4,7 +4,7 @@ This directory implements two cognitive load sessions.
      
     The first session also called 'Lab1' is a low cognitive load session. It is implemented in three versions with extension names in the files.
     + Run the file Lab1_-_online_version.psyexp if you don't have Steam software installed.
-    + Run the file Lab1.psyexp if you  have Steam software installed and the Bejeweled game purchased.
+    + Run the file Lab1.psyexp if you have Steam software installed and the Bejeweled game purchased.
     
     
     Following Task is included:
